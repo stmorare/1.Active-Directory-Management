@@ -60,11 +60,6 @@ Alice Johnson,Sales,Staff
 
 ### 6. Test and Document
 - Test access: `johndoe` (read-only), `janesmith` (modify).
-- Scrrenshot Links: 
-![Sales OU Created](screenshots/Sales%20OU%20Created..PNG)
-![Sales Folder Created - NTFS Permissions](screenshots/SalesFolder%20created%20-%20NTFS%20permissions%20configured..PNG)
-![Sales Folder Created - Share Permissions](screenshots/SalesFolder%20created%20-%20Share%20permissions%20configured..PNG)
-![Users Created via Script](screenshots/Users-Created%20via%20script%20&%20assigned%20to%20their%20relevant%20groups..PNG)
 
 ## Conclusion
 This project demonstrates system administration skills, focusing on basic Active Directory tasks. 
