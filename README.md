@@ -1,4 +1,4 @@
-# Active Directory Management Project SOP
+# Active Directory Management Project
 
 ## Overview
 
