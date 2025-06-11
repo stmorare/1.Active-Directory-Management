@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project sets up a Windows Server 2025 domain environment, automates user provisioning with PowerShell, applies GPOs, configures security groups, and troubleshoots issues. **Date**: June 11, 2025, 12:57 PM SAST.
+This project sets up a Windows Server 2025 domain environment, automates user provisioning with PowerShell, applies GPOs, configures security groups, and troubleshoots issues.
 
 ### Objectives
 
