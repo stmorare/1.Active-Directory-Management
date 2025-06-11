@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project sets up a Windows Server 2019 domain environment, automates user provisioning with PowerShell, applies GPOs, configures security groups, and troubleshoots issues. **Date**: June 06, 2025, 12:57 PM SAST.
+This project sets up a Windows Server 2019 domain environment, automates user provisioning with PowerShell, applies GPOs, configures security groups, and troubleshoots issues. **Date**: June 11, 2025, 12:57 PM SAST.
 
 ### Objectives
 
@@ -65,5 +65,5 @@ Alice Johnson,Sales,Staff
 This project demonstrates system administration skills, focusing on basic Active Directory tasks. 
 
 **Prepared by**: Simphiwe T. Morare  
-**Date**: June 06, 2025.
+**Date**: June 11, 2025.
 
