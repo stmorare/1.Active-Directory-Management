@@ -14,7 +14,7 @@ This project sets up a Windows Server 2025 domain environment, automates user pr
 
 ### Tools Used
 
-- Windows Server 2025
+- Windows Server 2025 Datacenter Edition.
 - Windows 11
 - Active Directory Domain Services (AD DS)
 - PowerShell
