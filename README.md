@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project sets up a Windows Server 2025 domain environment, automates user provisioning with PowerShell, applies GPOs, configures security groups, and troubleshoots issues.
+This project sets up a Windows Server 2025 (Datacenter Edition) domain environment, automates user provisioning with PowerShell, applies GPOs, configures security groups, and troubleshoots issues.
 
 ### Objectives
 
-- Set up a domain environment using Windows Server 2019.
+- Set up a domain environment using Windows Server 2025 Datacenter Edition.
 - Automate user creation with PowerShell.
 - Configure GPOs for desktop settings.
 - Secure resources using security groups.
@@ -15,7 +15,7 @@ This project sets up a Windows Server 2025 domain environment, automates user pr
 ### Tools Used
 
 - Windows Server 2025 Datacenter Edition.
-- Windows 11
+- Windows 11 Pro
 - Active Directory Domain Services (AD DS)
 - PowerShell
 - Group Policy Management
@@ -28,7 +28,7 @@ This project sets up a Windows Server 2025 domain environment, automates user pr
 - Install VMware Workstation Player from [VMware](https://www.vmware.com/products/workstation-player.html).
 - Create VMs:
   - **Domain Controller**: Windows Server 2025, 4 GB RAM, 100 GB disk.
-  - **Clients**: Two Windows 11 VMs, 4 GB RAM, 100 GB disk each.
+  - **Clients**: Two Windows 11 Pro VMs, 4 GB RAM, 100 GB disk each.
 - Promote the server to a domain controller with domain `mydomain.local`.
 - Join clients to the domain.
 
