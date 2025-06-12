@@ -1,4 +1,4 @@
-# Active Directory Management Project
+# Active Directory Management
 
 ## Overview
 
