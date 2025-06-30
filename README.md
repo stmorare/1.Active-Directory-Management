@@ -61,9 +61,7 @@ Alice Johnson,Sales,Staff
 ### 6. Test and Document
 - Test access: `johndoe` (read-only), `janesmith` (modify).
 
-## Conclusion
-This project demonstrates system administration skills, focusing on basic Active Directory tasks. 
-
-**Prepared by**: Simphiwe T. Morare  
-**Date**: June 11, 2025.
+## Acknowledgements
+- Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
+- Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
 
